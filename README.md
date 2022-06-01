@@ -1,5 +1,5 @@
 ﻿# ClassicRewindTnT
- Python scripts that harvest data from Warcraft Logs Api
+ Python scripts that harvest data from Warcraft Logs API
  
  Code is mostly proprietary to my guild's circumstances...
  
